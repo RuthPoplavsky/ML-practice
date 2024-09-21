@@ -1,4 +1,4 @@
-# ML-practice
+# AI
 
 ## Python for Machine Learning
 
